@@ -11,7 +11,7 @@ public class MainMenu : MonoBehaviour
     }
     void PlayButton ()
     {
-      SceneManager.LoadScene("paralax");
+      SceneManager.LoadScene("GameScene");
     }
     
 }
